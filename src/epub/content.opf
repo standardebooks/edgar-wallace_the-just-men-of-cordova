@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/edgar-wallace/the-just-men-of-cordova</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-02-24T18:44:59Z</dc:date>
+		<meta property="dcterms:modified">2024-02-24T18:44:59Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -36,20 +36,17 @@
 		<meta id="collection-1" property="belongs-to-collection">The Four Just Men</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">3</meta>
-		<dc:description id="description">The Four Just Men travel to Spain to bring justice to criminals operating in aristocratic high-finance.</dc:description>
+		<dc:description id="description">The Four Just Men travel to Spain to bring justice to criminals operating in aristocratic high finance.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Just Men of Cordova&lt;/i&gt;, the third novel in &lt;a href="https://standardebooks.org/collections/the-four-just-men"&gt;The Four Just Men&lt;/a&gt; series, finds the Just Men seeking to bring justice to criminals in the world of upper-class high finance and horse-racing.&lt;/p&gt;
-			&lt;p&gt;Colonel Black, a notorious London financier, has moved up in the world often due to the timely deaths of his investment partners.&lt;/p&gt;
-			&lt;p&gt;Catching wind that Dr. Essley, a colleague of Dr. Black’s, has purchased a small supply of an extremely fatal poison that leaves no trace on the victim, The Just Men follow Essley to London and recruit a fourth Just Man to further their purpose.&lt;/p&gt;
-			&lt;p&gt;Despite several warnings from the Just Men, Colonel Black continues his ways. Investment partners are ruined; colleagues and former employees mysteriously die.&lt;/p&gt;
-			&lt;p&gt;The novel concludes with the suprising revelation of the identities of both Dr. Essley and the fourth Just Man.&lt;/p&gt;
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/edgar-wallace"&gt;Edgar Wallace&lt;/a&gt; wrote &lt;i&gt;The Just Men of Cordova&lt;/i&gt; some nine years after &lt;a href="https://standardebooks.org/ebooks/edgar-wallace/the-council-of-justice"&gt;&lt;i&gt;The Council of Justice&lt;/i&gt;&lt;/a&gt;, the previous novel in the series. During that time, Wallace had become increasing popular with the reading public and in fact, it was said that at the time one quarter of all the books in England were written by him.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Just Men of Cordova&lt;/i&gt;, the third novel in the &lt;a href="https://standardebooks.org/collections/the-four-just-men"&gt;Four Just Men&lt;/a&gt; series, finds the Just Men seeking to bring right the wrongs of criminals in the world of upper-class high finance and horse racing.&lt;/p&gt;
+			&lt;p&gt;Colonel Black, a notorious London financier, has moved up in the world due to the convenient deaths of his investment partners. The Just Men soon catch wind that Dr. Essley, a colleague of Dr. Black’s, has purchased a small supply of an extremely fatal poison that leaves no trace on the victim, and so they recruit a fourth Just Man to help them in their work. But despite several warnings from the Just Men, Colonel Black continues his murderous ways. Can the now-four Just Men stop him?&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/edgar-wallace"&gt;Edgar Wallace&lt;/a&gt; wrote &lt;i&gt;The Just Men of Cordova&lt;/i&gt; some nine years after &lt;a href="https://standardebooks.org/ebooks/edgar-wallace/the-council-of-justice"&gt;&lt;i&gt;The Council of Justice&lt;/i&gt;&lt;/a&gt;, the previous novel in the series. During that time, Wallace had become increasing popular with the reading public—in fact, one of his publishers even claimed that he had written fully one quarter of all the books being sold in England.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://gutenberg.net.au/ebooks08/0800311h.html</dc:source>
 		<dc:source>https://www.google.com/books/edition/The_Just_Men_of_Cordova/_cMTAAAAQAAJ</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">52222</meta>
+		<meta property="se:reading-ease.flesch">75.0</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Just_Men_of_Cordova</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-wallace_the-just-men-of-cordova</meta>
 		<dc:creator id="author">Edgar Wallace</dc:creator>
@@ -81,6 +78,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.brokenandsaved.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
