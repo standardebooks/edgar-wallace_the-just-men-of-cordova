@@ -38,7 +38,7 @@
 		<meta id="collection-1" property="belongs-to-collection">The Four Just Men</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">3</meta>
-		<dc:abstract>The Four Just Men travel to Spain to bring justice to criminals operating in aristocratic high finance.</dc:abstract>
+		<meta property="schema:abstract">The Four Just Men travel to Spain to bring justice to criminals operating in aristocratic high finance.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Just Men of Cordova&lt;/i&gt;, the third novel in the &lt;a href="https://standardebooks.org/collections/the-four-just-men"&gt;Four Just Men&lt;/a&gt; series, finds the Just Men seeking to bring right the wrongs of criminals in the world of upper-class high finance and horse racing.&lt;/p&gt;
 			&lt;p&gt;Colonel Black, a notorious London financier, has moved up in the world due to the convenient deaths of his investment partners. The Just Men soon catch wind that Dr. Essley, a colleague of Dr. Black’s, has purchased a small supply of an extremely fatal poison that leaves no trace on the victim, and so they recruit a fourth Just Man to help them in their work. But despite several warnings from the Just Men, Colonel Black continues his murderous ways. Can the now-four Just Men stop him?&lt;/p&gt;
