@@ -62,7 +62,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Martín Rico y Ortega</dc:contributor>
 		<meta property="file-as" refines="#artist">Ortega, Martín Rico y</meta>
-		<link href="https://en.wikipedia.org/wiki/Martín_Rico" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/Mart%C3%ADn_Rico" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n84178541.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Colin Choat</dc:contributor>
